@@ -250,6 +250,11 @@ label span {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+}
+
+.form-holder {
+    width: 100%;
 }
 
 .form-holder img {
